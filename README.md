@@ -1,4 +1,5 @@
 ```shell
+USE MY VIRTUAL ENVIRONMENT VENV
 only python3.10
 ```
 
@@ -11,7 +12,6 @@ cd Tdata-converter
 
 Windows manual installation
 ```shell
-python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
@@ -19,7 +19,6 @@ python main.py
 
 Linux manual installation
 ```shell
-python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
