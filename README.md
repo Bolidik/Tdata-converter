@@ -22,9 +22,11 @@ python3 main.py
 ```
 
 Структура папок:
+```shell
 raw_converter/tdata_to_sessions/: ##Сюда поместите папки с распакованными данными TData. Каждая папка должна содержать папку tdata.
 Например: 
 raw_converter/tdata_to_sessions/account1/tdata, 
 raw_converter/tdata_to_sessions/account2/tdata и т.д.
 
 raw_converter/res_sessions/: Сюда будут сохраняться готовые сессии Pyrogram и Telethon.
+```
