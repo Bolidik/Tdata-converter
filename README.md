@@ -1,3 +1,7 @@
+```shell
+only python3.10
+```
+
 Клонирование репозитория:
 ```shell
 git clone https://github.com/Bolidik/Tdata-converter
